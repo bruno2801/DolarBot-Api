@@ -3,7 +3,7 @@
   "version": "1.6.5",
   "main": "index.js",
   "gitRepo": "https://github.com/guidospadavecchia/DolarBot-Api",
-  "requiresApiKey": true,
+  "requiresApiKey": false,
   "taxPercent": {
     "ahorro": 155,
     "tarjeta": 155,
