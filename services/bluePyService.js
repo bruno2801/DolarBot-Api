@@ -2,7 +2,7 @@ const axios = require('axios')
 
 const baseUrl = "https://bluepy.vercel.app/";
 
-const DOLAR_OFICIAL = '/api/dolar/oficial';
+const DOLAR_OFICIAL = 'api/dolar/oficial';
 const DOLAR_BLUE = '/api/dolar/blue';
 const DOLAR_TURISTA = '/api/dolar/turista';
 const DOLAR_MEP = '/api/dolar/mep';
